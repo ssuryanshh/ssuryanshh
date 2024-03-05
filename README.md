@@ -71,11 +71,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ssuryanshh.ssuryanshh&"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/ssuryanshh/ssuryanshh/output/snake.svg" alt="Snake animation" />
-
-###
 
 <br clear="both">
 
